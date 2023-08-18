@@ -9,7 +9,7 @@ def put_mouse_click(pos_x, pos_y, button_touched):
 
     pyautogui.click(x= pos_x, y= pos_y)
 
-    print("Button '" + button_touched + "' selected.")
+    # print("Button '" + button_touched + "' selected.") For debug
 
 def scan_file():
     """
@@ -45,7 +45,7 @@ def scan_file():
 
     pyautogui.moveTo(x=500, y=10)
 
-    time.sleep(10)
+    time.sleep(10) # This time may change, depending on your PC, the file to be scanned, etc.
 
     put_mouse_click(30, 30, 'Files')
 

@@ -1,0 +1,6 @@
+These are the instructions about the automatic scanning program.
+1_ You have to put the paper in the scanner, facing in the direction you like (preferably upwards, as it is normally read).
+2_ Close the cover of the scanner and go to the computer.
+3_ Run the automatic_scanning application.
+4_ Wait for it to finish scanning, you will notice it because you will see the screen to save the file as .png.
+IMPORTANT: DO NOT TOUCH ANYTHING IN THE SCANNING PROCESS, IT IS AUTOMATIC FOR A REASON.
